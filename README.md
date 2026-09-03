@@ -21,7 +21,7 @@ This project performs an **Exploratory Data Analysis (EDA)** on retail sales dat
 ---
 
 ## 🎨 Visualization Dashboard Preview
-![Sales Analytics Dashboard](task1_payment_dashboard.png)
+![Sales Analytics Dashboard](task1_Sales_dashboard.png)
 
 ---
 
@@ -31,3 +31,16 @@ FUTURE_DS_01/
 ├── task1_Sales.py              # Main Python Analysis Script
 ├── task1_payment_dashboard.png # Generated Visual Analytics Chart
 └── README.md                   # Project Documentation
+```
+---
+
+## 🚀 How to Run the Project
+
+1. *Install Dependencies:*
+   ```bash
+   pip install pandas matplotlib seaborn numpy
+   ```
+2. *Execute Script:*
+   ```bash
+   python task1_Sales.py
+   ```
