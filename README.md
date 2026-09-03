@@ -1,17 +1,33 @@
-# Business Sales Performance Analytics 📊
+# 📊 Business Sales Performance Analytics
 
 ## 📌 Project Overview
-This project performs an exploratory data analysis (EDA) on retail sales data to track total revenue, identify top-performing products, and analyze customer payment preferences.
+This project performs an **Exploratory Data Analysis (EDA)** on retail sales data. It tracks overall revenue generation, identifies high-performing products, and evaluates customer payment channel preferences to deliver actionable business insights.
 
-## 🛠️ Technologies & Libraries Used
-- *Language:* Python 3.x
-- *Data Manipulation:* pandas, numpy
-- *Data Visualization:* matplotlib, seaborn
-- *Version Control:* Git & GitHub
+---
+
+## 🛠️ Tech Stack & Tools
+- **Programming Language:** Python 3.x
+- **Data Analysis & Processing:** `pandas`, `numpy`
+- **Data Visualization:** `matplotlib`, `seaborn`
+- **Version Control:** Git & GitHub
+
+---
 
 ## 📈 Key Business Insights
-- *Total Revenue:* $145,000.00
-- *Top Performing Product:* Monitor ($38,070.00 revenue)
-- *Primary Payment Channel:* Net Banking ($52,800.00 revenue)
+- 💰 **Total Revenue Generated:** `$145,000.00`
+- 🏆 **Top-Performing Product:** `Monitor` (`$38,070.00` revenue)
+- 💳 **Primary Payment Channel:** `Net Banking` (`$52,800.00` revenue)
+
+---
+
+## 🎨 Visualization Dashboard Preview
+![Sales Analytics Dashboard](task1_payment_dashboard.png)
+
+---
 
 ## 📁 Repository Structure
+```text
+FUTURE_DS_01/
+├── task1_Sales.py              # Main Python Analysis Script
+├── task1_payment_dashboard.png # Generated Visual Analytics Chart
+└── README.md                   # Project Documentation
