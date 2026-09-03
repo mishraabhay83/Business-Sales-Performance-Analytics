@@ -21,7 +21,7 @@ This project performs an **Exploratory Data Analysis (EDA)** on retail sales dat
 ---
 
 ## 🎨 Visualization Dashboard Preview
-![Sales Analytics Dashboard](task1_Sales_dashboard.png)
+![Sales Analytics Dashboard](task1_sales_dashboard.png)
 
 ---
 
