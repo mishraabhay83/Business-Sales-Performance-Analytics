@@ -21,7 +21,7 @@ This project performs an **Exploratory Data Analysis (EDA)** on retail sales dat
 ---
 
 ## 🎨 Visualization Dashboard Preview
-![Sales Analytics Dashboard](task1_sales_dashboard.png)
+![Sales Analytics Dashboard](sales_dashboard.png)
 
 ---
 
@@ -42,5 +42,5 @@ Business Sales Performance Analytics
    ```
 2. *Execute Script:*
    ```bash
-   python task1_Sales.py
+   python Sales.py
    ```
